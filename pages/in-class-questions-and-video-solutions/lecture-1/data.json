@@ -1,0 +1,6 @@
+
+{
+  "title":"Lecture 1",
+  "content":" Shell vs. Editor You run the code below from the editor.\ntype(5) print(3.0-1) What\u0026rsquo;s printed?\nint close 2.0 check int then 2.0 close nothing close Check \u0026emsp; Show Solution Viewing videos requires an internet connection View video page Download video Download transcript Python vs. Math Which is allowed in Python?\nx + y = 2 close x*x = 2 close 2 = x close xy = 2 check None of the Above close Check \u0026emsp; Show Solution Viewing videos requires an internet connection View video page Download video Download transcript Bindings You run the code below from the file editor.\nusa_gold = 46 uk_gold = 27 romania_gold = 1 total_gold = usa_gold + uk_gold + romania_gold print(total_gold) romania_gold += 1 print(total_gold) What\u0026rsquo;s printed?\n74 then 74 check 74 then 75 close 74 close 75 close Check \u0026emsp; Show Solution Viewing videos requires an internet connection View video page Download video Download transcript "}
+
+
